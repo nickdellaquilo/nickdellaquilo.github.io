@@ -1,7 +1,10 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 h1 {
-    text-align: center;
-    font-size: large;
+    font-size: 32;
+}
+h2 {
+    font-size: 24
 }
