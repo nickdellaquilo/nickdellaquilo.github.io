@@ -8,6 +8,10 @@ h1 {
 h2 {
     font-size: 24
 }
+h3 {
+    font-size: 18
+}
 p {
     font-family: 'Courier New', Courier, monospace;
+    font-size: 12
 }
